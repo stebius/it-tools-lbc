@@ -1,0 +1,46 @@
+home:
+  categories:
+    newestTools: Новые инструменты
+    favoriteTools: Избранные инструменты
+    allTools: Все инструменты
+    favoritesDndToolTip: Перетащите, чтобы изменить порядок избранного
+  subtitle: Удобные инструменты для разработчиков
+  toggleMenu: Переключить меню
+  home: Главная
+  uiLib: Библиотека UI
+  support: Поддержать проект
+  buyMeACoffee: Купите мне кофе
+  follow:
+    title: Вам нравится IT-Tools?
+    p1: Поставьте нам звезду на
+    githubRepository: Репозиторий IT-Tools на GitHub
+    p2: или подпишитесь на нас в
+    twitterXAccount: Аккаунт IT-Tools в X (Twitter)
+    thankYou: Спасибо!
+  nav:
+    github: Репозиторий GitHub
+    githubRepository: Репозиторий IT-Tools на GitHub
+    twitterX: Аккаунт X (Twitter)
+    twitterXAccount: Аккаунт IT-Tools в X (Twitter)
+    about: О проекте
+    aboutLabel: О проекте
+    darkMode: Темная тема
+    lightMode: Светлая тема
+    mode: Переключить темную/светлую тему
+about:
+  content: >
+    # О проекте IT-Tools
+
+    Этот замечательный сайт, созданный с ❤ [Corentin Thomasset](https://corentin.tech?utm_source=it-tools&utm_medium=about), агрегирует полезные инструменты для разработчиков и людей, работающих в IT. Если вы считаете его полезным, пожалуйста, поделитесь им с теми, кому он тоже может пригодиться, и не забудьте добавить его в закладки!
+
+    IT Tools имеет открытый исходный код (лицензия GPL-3.0) и является бесплатным, но хостинг и продление домена требуют затрат. Если вы хотите поддержать мою работу и вдохновить меня на добавление новых инструментов, пожалуйста, рассмотрите возможность поддержать меня [спонсируя проект](https://www.buymeacoffee.com/cthmsst).
+
+    ## Технологии
+
+    IT Tools создан на Vue.js (Vue 3) с использованием библиотеки компонентов Naive UI. В некоторых инструментах используются сторонние библиотеки с открытым исходным кодом, полный список которых можно найти в файле [package.json](https://github.com/CorentinTh/it-tools/blob/main/package.json) репозитория.
+
+    ## Нашли баг? Не хватает инструмента?
+
+    Если вам нужен инструмент, которого здесь нет, и вы считаете его полезным, вы можете оставить запрос в [разделе issues](https://github.com/CorentinTh/it-tools/issues/new/choose) в репозитории.
+
+    А если вы нашли баг или что-то работает не так, как ожидалось, пожалуйста, создайте отчет об ошибке в [разделе issues](https://github.com/CorentinTh/it-tools/issues/new/choose) в репозитории.

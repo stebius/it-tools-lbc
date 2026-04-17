@@ -1,0 +1,83 @@
+# Original Author (Corentin Thomasset) Signatures & Links
+
+This file lists locations where the original author's name, website, and social media links appear.
+
+## Personal Website / Portfolio
+- Path: it-tools-lbc/src/layouts/base.layout.vue
+  Context: Footer link (line 85)
+  URL: https://corentin.tech?utm_source=it-tools&utm_medium=footer
+
+- Path: it-tools-lbc/package.json
+  Context: Author field (line 7)
+  URL: https://corentin.tech
+
+- Path: it-tools-lbc/locales/*.yml (All language files)
+  Context: "About" section description
+  URL: https://corentin.tech?utm_source=it-tools&utm_medium=about
+
+- Path: it-tools-lbc/README.md
+  Context: "Coded with ❤️ by" (line 122)
+  URL: https://corentin.tech?utm_source=it-tools&utm_medium=readme
+
+## GitHub Repository & Profile
+- Path: it-tools-lbc/package.json
+  Context: Repository URL (line 11)
+  URL: https://github.com/CorentinTh/it-tools
+
+- Path: it-tools-lbc/src/layouts/base.layout.vue
+  Context: Version and Commit links (lines 66, 76)
+  URL: https://github.com/CorentinTh/it-tools
+
+- Path: it-tools-lbc/src/components/NavbarButtons.vue
+  Context: GitHub button (line 14)
+  URL: https://github.com/CorentinTh/it-tools
+
+- Path: it-tools-lbc/src/pages/Home.page.vue
+  Context: Banner/Link (line 31)
+  URL: https://github.com/CorentinTh/it-tools
+
+- Path: it-tools-lbc/src/modules/command-palette/command-palette.store.ts
+  Context: Links in command palette (lines 51, 60)
+  URL: https://github.com/CorentinTh/it-tools
+
+- Path: it-tools-lbc/README.md
+  Context: Issues and feature requests (lines 13, 15)
+  URL: https://github.com/CorentinTh/it-tools
+
+- Path: it-tools-lbc/public/humans.txt
+  Context: Developer and Site (lines 2, 3)
+  URL: https://github.com/CorentinTh
+
+- Path: it-tools-lbc/.github/ISSUE_TEMPLATE/bug-report.yml
+  Context: Assignees (line 5)
+  User: CorentinTh
+
+- Path: it-tools-lbc/.github/FUNDING.yml
+  Context: GitHub funding (line 2)
+  User: CorentinTh
+
+## Support / Buy Me A Coffee
+- Path: it-tools-lbc/src/layouts/base.layout.vue
+  Context: Support button (line 126)
+  URL: https://www.buymeacoffee.com/cthmsst
+
+- Path: it-tools-lbc/locales/*.yml (All language files)
+  Context: "About" section support link
+  URL: https://www.buymeacoffee.com/cthmsst
+
+## Twitter / X
+- Path: it-tools-lbc/public/humans.txt
+  Context: Twitter handle (line 4)
+  Handle: @cthmsst
+
+- Path: it-tools-lbc/src/tools/meta-tag-generator/og-schemas/twitter.ts
+  Context: Placeholder example (line 27)
+  Handle: @cthmsst
+
+- Path: it-tools-lbc/index.html
+  Context: Twitter creator meta tag (line 38)
+  Handle: @cthmsst
+
+- Path: it-tools-lbc/src/components/NavbarButtons.vue
+  Context: Twitter button (line 27)
+  URL: https://x.com/ittoolsdottech
