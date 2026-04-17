@@ -184,9 +184,13 @@ const tools = computed<ToolCategory[]>(() => [
   width: 100%;
   z-index: 10;
   overflow: hidden;
+  height: 160px;
+  background: linear-gradient(rgba(37, 99, 108, 0.6), rgba(37, 99, 108, 0.6)), url('/images/background.png');
+  background-size: cover;
+  background-position: center;
 
   .gradient {
-    margin-top: -65px;
+    display: none;
   }
 
   .text-wrapper {
